@@ -64,11 +64,11 @@ class Habitat {
             x = new Random().nextInt(areaSizeX - 150);
             y = new Random().nextInt(areaSizeY - 150);
             id = new Random().nextInt();
-            Worker puppy = new Worker(workerImg, x, y, id, time);
-            array.add(puppy);
+            Worker worker = new Worker(workerImg, x, y, id, time);
+            array.add(worker);
             identifiers.add(id);
-            birthdays.put(id, puppy.timeOfBirth);
-            System.out.println("Worker has generated. time of birth: " + puppy.timeOfBirth + ", id: " + id);
+            birthdays.put(id, worker.timeOfBirth);
+            System.out.println("Worker has generated. time of birth: " + worker.timeOfBirth + ", id: " + id);
             numberOfWorkers++;
         }
     }
