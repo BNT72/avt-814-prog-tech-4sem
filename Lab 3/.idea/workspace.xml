@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c45e208d-d141-410a-8da1-9f18d0784bf0" name="Default Changelist" comment="" />
+    <list default="true" id="c45e208d-d141-410a-8da1-9f18d0784bf0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/~$ЛР3.docx" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +90,9 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="485" y="91" key="#Main_(1)" timestamp="1582709175453">
       <screen x="0" y="0" width="1536" height="864" />
@@ -164,10 +170,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="8" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1584847925612" />
-    <state x="465" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1586071447708">
+    <state x="465" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1586169702208">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="465" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1586071447708" />
+    <state x="465" y="257" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1586169702208" />
     <state x="578" y="350" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1586071486758">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
